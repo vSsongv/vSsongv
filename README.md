@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @vSsongv
 - 👀 I’m interested in WEB and MOBILE!
-- 🌱 I’m currently learning JS, REACT, Node.JS
+- 💖 I can use JS, Python, Java, C and Dart Language!
+- 🌱 I’m currently learning JS, REACT, Node.JS, Flutter
 - 💞️ I’m looking to collaborate with great people :)
 
 <!---
