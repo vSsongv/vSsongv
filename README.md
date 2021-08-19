@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @vSsongv
+- ✨ I want to be a progressional developer
 - 👀 I’m interested in WEB and MOBILE!
 - 💖 I can use JS, Python, Java, C and Dart Language!
 - 🌱 I’m currently learning JS, REACT, Node.JS, Flutter
