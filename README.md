@@ -4,14 +4,8 @@
 
 ### 👋 Hi, I’m Ssong
 💻 I want to be a progressional developer :) 
-  
 👀 I’m interested in WEB and MOBILE!
-  
-💖 I can use JS, Python, Java, C and Dart Language! 
-  
-🎀 I’m currently learning JS, REACT, Flutter  
-  
-💞️ I’m looking to collaborate with great people :)
+💞️ I’m looking forward to collaborate with great people :)
   
   -------------------
 ## ✨Texh Stack✨
@@ -33,13 +27,7 @@
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=flat-square&logo=Z&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/>
-  
- ----
- ### ✍️Will Study✍️
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/> 
   
   --------------------
   
