@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I’m Ssong
-💻 I want to be a progressional developer :) 
+💻 I want to be a progressional Frontend developer :) 
 👀 I’m interested in WEB and MOBILE!
 💞️ I’m looking forward to collaborate with great people :)
   
