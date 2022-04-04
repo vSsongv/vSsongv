@@ -7,7 +7,7 @@
 
 👀 I’m interested in WEB and MOBILE!
 
-💞️ I’m looking forward to collaborate with great people :)
+💕 I’m looking forward to collaborate with great people :)
   
   -------------------
 ## ✨Tech Stack✨
