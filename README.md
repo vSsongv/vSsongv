@@ -2,10 +2,12 @@
 <div align="center">
 
 
-### 👋 Hi, I’m Ssong
-💻 I want to be a progressional Frontend developer :) 
+### 👋 Hi, I’m Ssong. Junior Frontend Developer.
+💻 I want to be a progressional Developer :) 
 
-👀 I’m interested in WEB and MOBILE!
+💎 I focus on Web Accessibility!
+
+👀 I’m interested in WEB and MOBILE Programming!
 
 💕 I’m looking forward to collaborate with great people :)
   
