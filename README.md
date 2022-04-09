@@ -2,7 +2,7 @@
 <div align="center">
 
 
-### 👋 Hi, I’m Ssong. Junior Frontend Developer.
+### 👋 Hi, I’m Ssong. Frontend Developer.
 💻 I want to be a progressional Developer :) 
 
 💎 I focus on Web Accessibility!
