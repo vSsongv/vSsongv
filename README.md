@@ -39,7 +39,11 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=flat-square&logo=Z&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/> 
-   
+
+  -----
+  
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vSsongv&show_icons=true&theme=yeblu)](https://github.com/vSsongv/github-readme-stats)
+  
 <!---
 vSsongv/vSsongv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
