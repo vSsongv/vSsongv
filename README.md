@@ -10,12 +10,19 @@
 👀 I’m interested in WEB and MOBILE Programming!
 
 💕 I’m looking forward to collaborate with great people :)
+
+<a href="https://velog.io/@songjy377"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@songjy377"/></a>
+<a href="https://www.instagram.com/tssongt"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tssongt"/></a>
   
   -------------------
 ## ✨Tech Stack✨
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-square&logo=Sass&logoColor=white">
+  <img src="https://img.shields.io/badge/styled-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/mySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/>
@@ -34,11 +41,6 @@
 <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=Trello&logoColor=white"/> 
   
   --------------------
-  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vSsongv&show_icons=true&theme=yeblu)](https://github.com/vSsongv/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vSsongv&layout=compact)](https://github.com/vSsongv/github-readme-stats)
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=songjy377)](https://solved.ac/songjy377/)
   
 <!---
 vSsongv/vSsongv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
