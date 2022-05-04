@@ -7,7 +7,7 @@
 
 💎 I focus on Web Accessibility!
 
-👀 I’m interested in WEB and MOBILE Programming!
+👀 I’m interested in WEB and MOBILE!
 
 💕 I’m looking forward to collaborate with great people :)
 
