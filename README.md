@@ -7,7 +7,7 @@
 
 💎 I'm focusing on Web Accessibility!
 
-👀 I’m interested in WEB and MOBILE!
+💫 I try to write Clean Code!
 
 💕 I’m looking forward to collaborate with great people :)
 
