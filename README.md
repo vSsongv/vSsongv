@@ -3,7 +3,7 @@
 
 
 ### 👋 Hi, I’m Ssong. Frontend Developer.
-💻 I want to be a progressional Developer :) 
+💻 I want to be a professional Developer :) 
 
 💎 I'm focusing on Web Accessibility!
 
