@@ -14,7 +14,6 @@
 <a href="https://velog.io/@songjy377"><img src="https://img.shields.io/badge/velog-20C997?style=square&logo=velog&logoColor=white&link=https://velog.io/@songjy377"/></a>
 <a href="https://www.instagram.com/tssongt"><img src="https://img.shields.io/badge/instagram-E4405F?style=square&logo=instagram&logoColor=white&link=https://www.instagram.com/tssongt"/></a>
   
-  -------------------
 ## ✨Tech Stack
   <img src="https://img.shields.io/badge/Next.js-000000?style=square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>
@@ -45,16 +44,5 @@
 <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=square&logo=Z&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=square&logo=Trello&logoColor=white"/> 
 
-  -----
-  
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vSsongv&show_icons=true&theme=yeblu)](https://github.com/vSsongv/github-readme-stats)
-  
-<!---
-vSsongv/vSsongv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-</div>
-<!---
-vSsongv/vSsongv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+----  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vSsongv&show_icons=true&theme=yeblu)](https://github.com/vSsongv/github-readme-stats)
