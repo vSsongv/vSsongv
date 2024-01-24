@@ -3,11 +3,10 @@
 
 
 ### 👋 Hi, I’m Ssong. Frontend Developer.
-💻 I want to be a professional Developer :) 
 
-💎 I'm focusing on Web Accessibility!
+💎 I'm focusing on UI, UX and clean code!
 
-💫 I try to write Clean Code!
+💫 I pursue continuous growth to become a better me.
 
 💕 I’m looking forward to collaborate with great people :)
 
