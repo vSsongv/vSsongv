@@ -37,6 +37,3 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zeplin-FF9E0F?style=for-the-badge&logo=Z&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white"/> 
-
-----  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vSsongv&show_icons=true&theme=yeblu)](https://github.com/vSsongv/github-readme-stats)
